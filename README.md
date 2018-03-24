@@ -4,7 +4,7 @@ https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181
 
 The tiles are only 16x16 though, and that's pretty small for a lot of games.
 
-This repo is the DawnLike tileset, upscaled to x2, x3, and x4 sizes. If you need one of these sizes, clone the repo and have fun. (Do remember to accredit DawnBringer as discussed in the link above, and include Platino somewhere in your project as an attribution, see link above and  \orig16by16\Characters\Reptile0.png).
+This repo is the DawnLike tileset, upscaled to x2, x3, and x4 sizes. If you need one of these sizes, clone the repo and have fun. (Do remember to accredit DawnBringer as discussed in the link above, and include Platino somewhere in your project as an attribution, see link above and  \orig16by16\Characters\Reptile0.png.)
 
 &nbsp;
 
